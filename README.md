@@ -8,8 +8,7 @@
 
 
 ## About me 
-I'm a software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and CentOS.
-I'm open-source development enthusiast.
+An engineer who is a former Intern at CAIR (DRDO). I am currently pursuing his bachelor's degree in Computer Science from BMS College of Engineering and I mentor a course on Blockchain on coursera.org. I also hold keen interest in Artificial Intelligence, Machine Learning & Robotics. I keeps myself engaged with boxing, equestrian, and range-firing.
 
 
 ## Stack I work with
