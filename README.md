@@ -12,6 +12,10 @@ An engineer who is a former Intern at CAIR (DRDO). I am currently pursuing his b
 
 
 ## Stack I work with
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/sqlite/sqlite-ar21.svg"></code>
+
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
