@@ -9,7 +9,7 @@
 
 ## About me 
 An engineer who is a former Intern at CAIR (DRDO). I am currently pursuing his bachelor's degree in Computer Science from BMS College of Engineering and I mentor a course on Blockchain on coursera.org. I also hold keen interest in Artificial Intelligence, Machine Learning & Robotics. I keeps myself engaged with boxing, equestrian, and range-firing.
-
+<a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=shashank195&layout=compact" /></a>
 
 ## Stack I work with
 
@@ -40,7 +40,5 @@ An engineer who is a former Intern at CAIR (DRDO). I am currently pursuing his b
 
 
 ### Interesting stats
-
-<a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=shashank195&layout=compact" /></a>)
 ![Shashank's stats](https://github-readme-stats.vercel.app/api?username=shashank195&show_icons=true)
 ![image](https://github.com/shashank195/shashank195/blob/master/200.webp)
