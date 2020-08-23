@@ -4,12 +4,11 @@
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=shashank195)](https://github.com/shashank195)
 [![Linkedin](https://img.shields.io/badge/-Shashank%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shashank195/)](https://www.linkedin.com/in/shashank195/)
 [![Mail](https://img.shields.io/badge/-shashank.cs18@bmsce.ac.in-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:shashank.cs18@bmsce.ac.in)
-
+<a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=shashank195&layout=compact" /></a>
 
 
 ## About me 
 An engineer who is a former Intern at CAIR (DRDO). I am currently pursuing his bachelor's degree in Computer Science from BMS College of Engineering and I mentor a course on Blockchain on coursera.org. I also hold keen interest in Artificial Intelligence, Machine Learning & Robotics. I keeps myself engaged with boxing, equestrian, and range-firing.
-<a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=shashank195&layout=compact" /></a>
 
 ## Stack I work with
 
