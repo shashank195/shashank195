@@ -39,7 +39,7 @@ An engineer who is a former Intern at CAIR (DRDO). I am currently pursuing his b
 
 ### Interesting stats
 ![Shashank's stats](https://github-readme-stats.vercel.app/api?username=shashank195&show_icons=true)
-<code><img height="193" src="https://github.com/shashank195/shashank195/blob/master/Military%20exoskeleton%20animation.gif"></code>
+<code><img height="194" src="https://github.com/shashank195/shashank195/blob/master/Military%20exoskeleton%20animation.gif"></code>
 <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=shashank195&layout=compact" /></a>
 ![image](https://github.com/shashank195/shashank195/blob/master/200.webp)
 
