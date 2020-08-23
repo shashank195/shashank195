@@ -37,7 +37,7 @@ An engineer who is a former Intern at CAIR (DRDO). I am currently pursuing his b
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 
 
-### 🅸🅽🆃🅴🆁🅴🆂🆃🅸🅽🅶 🆂🆃🅰🆃🆂
+### Iɴᴛᴇʀᴇꜱᴛɪɴɢ Sᴛᴀᴛꜱ
 
 ![Shashank's stats](https://github-readme-stats.vercel.app/api?username=shashank195&show_icons=true)
 <code><img height="194" src="https://github.com/shashank195/shashank195/blob/master/Military%20exoskeleton%20animation.gif"></code>
