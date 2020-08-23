@@ -9,7 +9,7 @@
 ## About me 
 An engineer who is a former Intern at CAIR (DRDO). I am currently pursuing his bachelor's degree in Computer Science from BMS College of Engineering and I mentor a course on Blockchain on coursera.org. I also hold keen interest in Artificial Intelligence, Machine Learning & Robotics. I keeps myself engaged with boxing, equestrian, and range-firing.
 
-## 🆂🆃🅰🅲🅺 🅸 🆆🅾🆁🅺 🆆🅸🆃🅷
+## 𝙎𝙩𝙖𝙘𝙠 𝙄 𝙬𝙤𝙧𝙠 𝙬𝙞𝙩𝙝
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
@@ -37,7 +37,7 @@ An engineer who is a former Intern at CAIR (DRDO). I am currently pursuing his b
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 
 
-### Interesting stats
+### 🅸🅽🆃🅴🆁🅴🆂🆃🅸🅽🅶 🆂🆃🅰🆃🆂
 ![Shashank's stats](https://github-readme-stats.vercel.app/api?username=shashank195&show_icons=true)
 <code><img height="194" src="https://github.com/shashank195/shashank195/blob/master/Military%20exoskeleton%20animation.gif"></code>
 <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=shashank195&layout=compact" /></a>
