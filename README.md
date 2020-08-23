@@ -41,5 +41,6 @@ An engineer who is a former Intern at CAIR (DRDO). I am currently pursuing his b
 
 ### Interesting stats
 
+![Shashank's stats](https://github.com/shashank195/github-readme-stats)
 ![Shashank's stats](https://github-readme-stats.vercel.app/api?username=shashank195&show_icons=true)
 ![image](https://github.com/shashank195/shashank195/blob/master/200.webp)
