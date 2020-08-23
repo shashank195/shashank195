@@ -1,10 +1,10 @@
 # ❝SHASHANK KUMAR❞
 
+<a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=shashank195&layout=compact" /></a>
 [![Github](https://img.shields.io/github/followers/alkhachatryan?label=Follow&style=social)](https://github.com/shashank195)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=shashank195)](https://github.com/shashank195)
 [![Linkedin](https://img.shields.io/badge/-Shashank%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shashank195/)](https://www.linkedin.com/in/shashank195/)
 [![Mail](https://img.shields.io/badge/-shashank.cs18@bmsce.ac.in-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:shashank.cs18@bmsce.ac.in)
-<a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=shashank195&layout=compact" /></a>
 
 
 ## About me 
