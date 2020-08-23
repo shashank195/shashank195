@@ -6,7 +6,7 @@
 [![Mail](https://img.shields.io/badge/-shashank.cs18@bmsce.ac.in-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:shashank.cs18@bmsce.ac.in)
 
 
-## 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚
+## 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 An engineer who is a former Intern at CAIR (DRDO). I am currently pursuing his bachelor's degree in Computer Science from BMS College of Engineering and I mentor a course on Blockchain on coursera.org. I also hold keen interest in Artificial Intelligence, Machine Learning & Robotics. I keeps myself engaged with boxing, equestrian, and range-firing.
 
 ## 🆂🆃🅰🅲🅺 🅸 🆆🅾🆁🅺 🆆🅸🆃🅷
