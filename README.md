@@ -9,7 +9,7 @@
 ## About me 
 An engineer who is a former Intern at CAIR (DRDO). I am currently pursuing his bachelor's degree in Computer Science from BMS College of Engineering and I mentor a course on Blockchain on coursera.org. I also hold keen interest in Artificial Intelligence, Machine Learning & Robotics. I keeps myself engaged with boxing, equestrian, and range-firing.
 
-## Stack I work with
+## 🆂🆃🅰🅲🅺 🅸 🆆🅾🆁🅺 🆆🅸🆃🅷
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
