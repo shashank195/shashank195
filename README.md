@@ -1,6 +1,5 @@
 # ❝SHASHANK KUMAR❞
 
-<a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=shashank195&layout=compact" /></a>
 [![Github](https://img.shields.io/github/followers/alkhachatryan?label=Follow&style=social)](https://github.com/shashank195)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=shashank195)](https://github.com/shashank195)
 [![Linkedin](https://img.shields.io/badge/-Shashank%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shashank195/)](https://www.linkedin.com/in/shashank195/)
@@ -41,3 +40,4 @@ An engineer who is a former Intern at CAIR (DRDO). I am currently pursuing his b
 ### Interesting stats
 ![Shashank's stats](https://github-readme-stats.vercel.app/api?username=shashank195&show_icons=true)
 ![image](https://github.com/shashank195/shashank195/blob/master/200.webp)
+<a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=shashank195&layout=compact" /></a>
