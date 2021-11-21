@@ -6,7 +6,7 @@
 
 
 ## 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-An engineer who is a former Intern at CAIR (DRDO). I am currently pursuing his bachelor's degree in Computer Science from BMS College of Engineering and I mentor a course on Blockchain on coursera.org. I also hold keen interest in Artificial Intelligence, Machine Learning & Robotics. I keep myself engaged with boxing, equestrian, and range-firing.HURAAAAAA!!!
+I am currently pursuing his bachelor's degree in Computer Science from BMS College of Engineering and I mentor a course on Blockchain on coursera.org. I also hold keen interest in Artificial Intelligence, Machine Learning & Robotics. 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
