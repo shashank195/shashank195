@@ -1,4 +1,4 @@
-# ⚔️ 𝐒𝐇𝐀𝐒𝐇𝐀𝐍𝐊 👑 𝐊𝐔𝐌𝐀𝐑 🛡️
+# ☮️ 𝐒𝐇𝐀𝐒𝐇𝐀𝐍𝐊 👑 𝐊𝐔𝐌𝐀𝐑 ✨
 
 [![Github](https://img.shields.io/github/followers/alkhachatryan?label=Follow&style=social)](https://github.com/shashank195)
 [![Linkedin](https://img.shields.io/badge/-Shashank%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shashank195/)](https://www.linkedin.com/in/shashank195/)
