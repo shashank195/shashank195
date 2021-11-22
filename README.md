@@ -6,7 +6,7 @@
 
 
 ## 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-Hey folks! I am currently pursuing his bachelor's degree in Computer Science from BMS College of Engineering and I mentored a course on Blockchain on coursera.org. I also hold keen interest in Artificial Intelligence, Machine Learning & Heathcare IT. 
+Hey folks! I am currently pursuing his bachelor's degree in Computer Science from BMS College of Engineering and I mentored a course on Blockchain on coursera.org. I also hold keen interest in Data Science, Machine Learning & Heathcare IT. 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
